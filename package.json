@@ -1,0 +1,11 @@
+{
+  "name": "paletter",
+  "version": "1.0.0",
+  "description": "Splits an image into two images: a map and a palette",
+  "main": "index.js",
+  "author": "Chad Engler <chad@pantherdev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pngjs": "^3.0.1"
+  }
+}
